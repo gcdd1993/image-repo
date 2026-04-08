@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="20" role="img" aria-label="CLIProxyAPI: v6.8.37">
+  <g shape-rendering="crispEdges">
+    <rect width="79" height="20" fill="#0f172a"/>
+    <rect x="79" width="53" height="20" fill="#38bdf8"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+    <text x="405" y="140" transform="scale(.1)" fill="#fff" textLength="690">CLIProxyAPI</text>
+    <text x="1045" y="140" transform="scale(.1)" fill="#fff" textLength="430">v6.8.37</text>
+  </g>
+</svg>
